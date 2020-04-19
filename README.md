@@ -33,3 +33,11 @@ Heres a small example on how to autospot.
 This script only shows the spotting method:
 
 ![Spotted](http://wiad0api.tk/Delete%20in%202%20months/SkjermbildePS2.PNG)
+
+But you dont even need that, simple just having an while loop which press 'q' works to, however its messing up if you wanna type in chat.
+
+![Spotted2](http://wiad0api.tk/Delete%20in%202%20months/se.PNG)
+
+As simple as 4 lines will make it so you dont have to click a button ever. Is this how we want the game?
+
+
