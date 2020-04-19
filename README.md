@@ -13,7 +13,7 @@ No 3rd party detection, makes it easy having a script running in the background.
 
 The only file available to look at here is the config, due to me not wanting to destroy the game.
 
-*{
+*{                                                               
   "AutoSpot": true,  
   "WhenToSpot": "Auto", //Random, OnFire, Auto  
   "LosingShield": false, //Detect shield precent? 
