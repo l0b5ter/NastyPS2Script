@@ -14,29 +14,17 @@ No 3rd party detection, makes it easy having a script running in the background.
 The only file available to look at here is the config, due to me not wanting to destroy the game.
 
 *{
-
-  "AutoSpot": true,
-  
-  "WhenToSpot": "Auto", //Random, OnFire, Auto
-  
-  "LosingShield": false, //Detect shield precent?
-  
-  "LosingHealth": true, //Detect health precent?
-  
-  "ShieldPercent": "5%", //On what shield percent to perform action
-  
-  "ShieldAction": "ToggelAbility", //Perform action on preset percent; ToggelAbility will use your abilty(medic will use heal abil, heavy overshield and infli invis)
-  
-  "HealthPercent": "90%", //On what health percent to perform action
-  
-  "HealthAction": "ToggelAbility", //Perform action on preset percent; ToggelAbility will use your abilty(medic will use heal abil, heavy overshield and infli invis)
-  
-  "AimBot": false, //tells it self
-  
-  "AimAt": "Stomach", //where bot sud target; Stomach, Fot, Head, solid body
-  
-  "Terminate": "Never" //When the script sud auto close
-  
+  "AutoSpot": true,  
+  "WhenToSpot": "Auto", //Random, OnFire, Auto  
+  "LosingShield": false, //Detect shield precent? 
+  "LosingHealth": true, //Detect health precent?  
+  "ShieldPercent": "5%", //On what shield percent to perform action 
+  "ShieldAction": "ToggelAbility", //Perform action on preset percent; ToggelAbility will use your abilty(medic will use heal abil, heavy overshield and infli invis) 
+  "HealthPercent": "90%", //On what health percent to perform action 
+  "HealthAction": "ToggelAbility", //Perform action on preset percent; ToggelAbility will use your abilty(medic will use heal abil, heavy overshield and infli invis)  
+  "AimBot": false, //tells it self  
+  "AimAt": "Stomach", //where bot sud target; Stomach, Fot, Head, solid body  
+  "Terminate": "Never" //When the script sud auto close  
 }*
 
 You can simply decide what you wanna use. everything of these parameters are 3rd party.
