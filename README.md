@@ -18,10 +18,10 @@ The only file available to look at here is the config, due to me not wanting to 
   "WhenToSpot": "Auto", //Random, OnFire, Auto  
   "LosingShield": false, //Detect shield precent? 
   "LosingHealth": true, //Detect health precent?  
-  "ShieldPercent": "5%", //On what shield percent to perform action 
-  "ShieldAction": "ToggelAbility", //Perform action on preset percent; ToggelAbility will use your abilty(medic will use heal abil, heavy overshield and infli invis) 
-  "HealthPercent": "90%", //On what health percent to perform action 
-  "HealthAction": "ToggelAbility", //Perform action on preset percent; ToggelAbility will use your abilty(medic will use heal abil, heavy overshield and infli invis)  
+  "ShieldPercent": "5%", //On what shield percent to perform action                                                             
+  "ShieldAction": "ToggelAbility", //Perform action on preset percent; ToggelAbility will use your abilty(medic will use heal abil, heavy overshield and infli invis)                                                                                              
+  "HealthPercent": "90%", //On what health percent to perform action                                                          
+  "HealthAction": "ToggelAbility", //Perform action on preset percent; ToggelAbility will use your abilty(medic will use heal abil, heavy overshield and infli invis)                                                                   
   "AimBot": false, //tells it self  
   "AimAt": "Stomach", //where script sud target; Stomach, Fot, Head, solid body  
   "Terminate": "Never" //When the script sud auto close  
