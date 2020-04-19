@@ -12,7 +12,7 @@ No 3rd party detection, makes it easy having a script running in the background.
 
 
 The only file available to look at here is the config, due to me not wanting to destroy the game.
-{
+*{
   "AutoSpot": true,
   "WhenToSpot": "Auto", //Random, OnFire, Auto
   "LosingShield": false, //Detect shield precent?
@@ -24,7 +24,8 @@ The only file available to look at here is the config, due to me not wanting to 
   "AimBot": false, //tells it self
   "AimAt": "Stomach", //where bot sud target; Stomach, Fot, Head, solid body
   "Terminate": "Never" //When the script sud auto close
-}
+}*
+
 You can simply decide what you wanna use. everything of these parameters are 3rd party.
 Like spotting i making the script send keyboard inputs, LosingShield and Health is just video feed from screen where a lib named opencv detect how much blue or green there are in the selected cordinates on screen.
 Aim is using opencv to grab image files from a folder and try to find a place where it match. if the image match will make the mouse move to center of folder image.
