@@ -1,6 +1,6 @@
 {
   "AutoSpot": true,
-  "WhenToSpot": "10Delay", //Loop(set delay or random), OnFire, OnLosingHealth
+  "Spot": "10Delay", //Loop(set delay or random), OnFire, OnLosingHealth
   "LosingShield": false, //Detect shield precent?
   "LosingHealth": true, //Detect health precent?
   "ShieldPercent": "5%", //On what shield percent to perform action
