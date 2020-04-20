@@ -34,7 +34,7 @@ Aim is using opencv to grab image files from a folder and try to find a place wh
 Heres a small example on how to autospot.
 This script only shows the spotting method:
 
-![Spotted](http://wiad0api.tk/Delete%20in%202%20months/ps2spot.PNG)
+![Spotted](http://wiad0api.tk/Delete%20in%202%20months/ps2spots.PNG)
 
 But you dont even need that, simply just having a while loop which press 'q' works to, however its messing up if you wanna type in chat.
 
