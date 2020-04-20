@@ -36,7 +36,7 @@ This script only shows the spotting method:
 
 ![Spotted](http://wiad0api.tk/Delete%20in%202%20months/SkjermbildePS2.PNG)
 
-But you dont even need that, simply just having an while loop which press 'q' works to, however its messing up if you wanna type in chat.
+But you dont even need that, simply just having a while loop which press 'q' works to, however its messing up if you wanna type in chat.
 
 ![Spotted2](http://wiad0api.tk/Delete%20in%202%20months/se.PNG)
 
