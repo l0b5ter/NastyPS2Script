@@ -50,3 +50,14 @@ Oki down the the Shield/health part, below is a simple script using the opencv l
 ![OpenCV](http://wiad0api.tk/Delete%20in%202%20months/OpenCV1.PNG)
 
 Basicly it takes a screenshot of the screen every ms, and see if any of them matches any of the pics in the images folder. Do i need to tell more? I dont think so, dont want people to ruin the game. However you can ask me and i may answer^^
+its a landmark file named "shape_predictor_68_landmarks.DAT" which contains datapoints on different shapes, so here its used the draw literal lines around the shield and health bar to get a more clear view of the image.
+
+
+
+Ooooof, now we've come to the must discussed part......... This is the aimbot!
+
+![Aim](http://wiad0api.tk/Delete%20in%202%20months/aim1.PNG)
+
+The difference from stomach, fot, head or solid body is not so much in the code. thats just different landmarks and use another detector file.
+Here it uses the landmark file again, to get the points around the "faces". The new awesome thing here is the detector file, this file contains jsut some helmets in black/white format. So it basicly first finds the center of the screen, then search for helmets in the screenshot. After that it uses the landmarks to draw a circle around head/helmet, and lastly it will find the center of the head/helmet and move the mouse to that position. Btw i wont share the 2 files!!!!!!!
+Helmet file is made by me, so good luck finding it^^
