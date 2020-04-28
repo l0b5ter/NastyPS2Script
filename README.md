@@ -43,3 +43,10 @@ But you dont even need that, simply just having a while loop which press 'q' wor
 As simple as 4 lines will make it so you dont have to click a button ever. Is this how we want the game?
 
 
+
+
+Oki down the the Shield/health part, below is a simple script using the opencv lib. 
+
+![OpenCV](http://wiad0api.tk/Delete%20in%202%20months/OpenCV1.PNG)
+
+Basicly it takes a screenshot of the screen every ms, and see if any of them matches any of the pics in the images folder. Do i need to tell more? I dont think so, dont want people to ruin the game. However you can ask me and i may answer^^
