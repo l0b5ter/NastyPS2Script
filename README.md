@@ -1,13 +1,13 @@
 # NastyPS2Script
 
 PS2 aint there it sud be regarding to cheats prevention, and now that alot of new players have gotten into it. There sud be more awerness regarding this matter!
-Some days ago there was a stream which discussed "Casual to competitive", i think the game aint ready to take that step yet. Theres are things that needs to be adressed before thinking about real competitive gameplay. Well in the meantime, competivtive could be hold on a server with monitoring. doing it to all server is to soon.
+There was this stream which discussed "Casual to competitive", i think the game aint ready to take that step yet. Theres are things that needs to be adressed before thinking about real competitive gameplay. Well in the meantime, competitive could be hold on a server with monitoring. Doing it to all server is to soon.
 Theres no "police" yet.
 
 Also what about ps4? Its harder to cheat on that platform than on pc, due to its platform.
 
 Anyway below is a script i made to make things alot easier in the game, to be honest ive been using it when my kd has been looking bad. But i want everyone to know how easy it is to cheat in the game.
-No 3rd party detection, makes it easy having a script running in the background. PS. i havent shared this script with anyone yet, only people with link will see this. Dont wanna ruin the game, so i want you to know how some of the basic cheats work and how to easy detect them.
+No 3rd party detection, makes it easy having a script running in the background. PS. 'i havent shared this script with anyone yet', only people with link will see this. Dont wanna ruin the game, so i want you to know how some of the basic cheats work and how to easy detect them.
 
 
 
@@ -61,3 +61,6 @@ Ooooof, now we've come to the must discussed part......... This is the aimbot!
 The difference from stomach, fot, head or solid body is not so much in the code. thats just different landmarks and use another detector file.
 Here it uses the landmark file again, to get the points around the "faces". The new awesome thing here is the detector file, this file contains jsut some helmets in black/white format. So it basicly first finds the center of the screen, then search for helmets in the screenshot. After that it uses the landmarks to draw a circle around head/helmet, and lastly it will find the center of the head/helmet and move the mouse to that position. Btw i wont share the 2 files!!!!!!!
 Helmet file is made by me, so good luck finding it^^
+
+
+Everything above is written by lobster/loster31345, and i dont stand responsibility for any of it missuse. This was just to let people know that the security in the game is pretty lacking, hopefully you will see this and find a way to improve the game.
