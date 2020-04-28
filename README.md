@@ -16,7 +16,7 @@ The only file available to look at here is the config, due to me not wanting to 
 *{                                                               
   "AutoSpot": true,  
   "Spot": "Auto", //Random, OnFire, Auto  
-  "LosingShield": false, //Detect shield precent? 
+  "LosingShield": false, //Detect shield precent?                                                                     
   "LosingHealth": true, //Detect health precent?  
   "ShieldPercent": "3.3", //On what shield percent to perform action                                                             
   "ShieldAction": "q", //Perform action on preset percent;                                                                              
