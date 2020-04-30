@@ -40,7 +40,7 @@ But you dont even need that, simply just having a while loop which press 'q' wor
 
 ![Spotted2](http://wiad0api.tk/Delete%20in%202%20months/se.PNG)
 
-As simple as 4 lines will make it so you dont have to click a button ever. Is this how we want the game?
+As simple as 4 lines will make it so you dont have to click a button ever.
 
 
 
